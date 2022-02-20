@@ -1,0 +1,38 @@
+
+#linkBody{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%; 
+}
+#t1{
+    border-collapse: collapse;
+}
+#one{
+    text-align: center;
+}
+#two{
+    text-align: center;
+}
+#readingH {
+    text-align: center;
+    font-size: 50px;
+    font-style: unset;
+    color: black;
+    text-decoration-line: none;
+}
+#mainH {
+    text-align: center;
+    font-size: 100px;
+    font-style: unset;
+    text-decoration-line: none;
+}
+#date {
+    text-align: center;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
+#file {
+    text-align: center;
+}
